@@ -10,7 +10,7 @@
     Blend the best patterns and architectural solutions, be the best of the best!
     <br/>
     <br/>
-    <a href="https://mixarchitecture.github.io"><strong>Explore the docs »</strong></a>
+    <a href="https://mixarchitecture.pages.dev/"><strong>Explore the docs »</strong></a>
     <br/>
   </p>
 </p>
