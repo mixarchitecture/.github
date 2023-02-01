@@ -17,7 +17,7 @@
 
 ## About The Project
 
-Mix Architecture is a set of patterns and architectural solutions that can be used in any project, regardless of the technology used. The idea is to have a set of patterns that can be used in any project, regardless of the technology used.
+Mix Architecture; is a project that aims to write simpler, understandable, flexible, lightweight and maintainable code by taking a good architectural approach and applying appropriate design patterns for any platform.
 
 ## Roadmap
 
